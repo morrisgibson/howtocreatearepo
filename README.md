@@ -1,2 +1,4 @@
 # Example Repository
-This is a sample report, We have successfully try something new!
+This is a sample report, I have successfully try something new!
+
+GIT!!!!! hah.. awesome 
